@@ -1,0 +1,101 @@
+Student_ID,Student_Name,Department,Semester,Subject_1,Subject_2,Subject_3,Subject_4,Subject_5
+STU001,Kiran Kumar,Civil,7,95,55,58,37,56
+STU002,Vivaan Gupta,Mechanical,6,72,36,98,94,55
+STU003,Aarav Joshi,Civil,4,83,93,76,94,49
+STU004,Diya Rao,Mechanical,7,98,37,85,41,55
+STU005,Sai Nair,Information Science,4,94,48,43,87,36
+STU006,Ishita Nair,Mechanical,5,42,81,69,70,84
+STU007,Rohan Kumar,Information Science,6,40,88,38,88,97
+STU008,Riya Joshi,Mechanical,2,96,48,82,49,96
+STU009,Rohan Shetty,Civil,2,87,58,60,94,75
+STU010,Diya Sharma,Computer Science,7,43,35,42,97,45
+STU011,Nisha Sharma,Electronics,3,67,39,75,62,41
+STU012,Sai Gupta,Mechanical,2,67,82,57,96,71
+STU013,Aditya Gupta,Electronics,3,99,81,37,35,39
+STU014,Meera Nair,Electronics,1,49,76,85,97,86
+STU015,Krishna Shetty,Civil,7,77,63,70,47,66
+STU016,Kiran Rao,Mechanical,2,76,79,96,91,40
+STU017,Sneha Kumar,Electronics,8,96,35,61,96,37
+STU018,Kiran Singh,Electronics,1,96,71,85,78,58
+STU019,Diya Singh,Computer Science,4,96,92,86,46,73
+STU020,Vivaan Rao,Computer Science,5,90,93,36,36,88
+STU021,Arjun Sharma,Computer Science,3,36,87,78,66,66
+STU022,Krishna Nair,Electronics,8,51,72,58,45,50
+STU023,Aarav Verma,Mechanical,3,37,54,93,70,53
+STU024,Aditya Rao,Mechanical,8,86,67,74,73,35
+STU025,Priya Verma,Computer Science,2,57,65,76,41,50
+STU026,Pooja Verma,Mechanical,4,36,35,82,46,71
+STU027,Sai Verma,Electronics,3,82,37,54,58,88
+STU028,Aarav Gupta,Mechanical,3,70,72,59,52,100
+STU029,Aditya Verma,Mechanical,1,67,48,55,82,54
+STU030,Rohan Nair,Electronics,1,67,82,93,56,64
+STU031,Rahul Singh,Civil,3,88,42,61,61,55
+STU032,Aarav Sharma,Civil,4,95,82,53,38,69
+STU033,Aisha Sharma,Mechanical,4,64,80,40,71,58
+STU034,Aisha Shetty,Electronics,4,97,66,67,52,59
+STU035,Aryan Singh,Information Science,3,80,58,66,81,57
+STU036,Vivaan Joshi,Information Science,2,51,67,43,77,82
+STU037,Kiran Joshi,Information Science,3,84,59,58,47,94
+STU038,Kiran Verma,Mechanical,5,54,99,42,50,48
+STU039,Sneha Rao,Mechanical,2,100,66,97,85,59
+STU040,Aisha Kumar,Information Science,6,49,88,94,42,87
+STU041,Sneha Shetty,Mechanical,6,81,89,74,86,50
+STU042,Ananya Patel,Mechanical,2,64,53,51,97,53
+STU043,Arjun Joshi,Civil,6,57,43,46,35,92
+STU044,Aarav Patel,Computer Science,8,35,50,95,98,97
+STU045,Arjun Singh,Civil,7,60,50,85,91,63
+STU046,Meera Shetty,Computer Science,6,96,50,82,73,67
+STU047,Arjun Nair,Information Science,2,68,86,44,53,92
+STU048,Aarav Gupta,Civil,5,38,50,58,36,66
+STU049,Ishita Gupta,Mechanical,2,69,67,67,95,85
+STU050,Priya Shetty,Mechanical,3,99,67,74,77,78
+STU051,Ananya Patel,Civil,3,69,42,60,68,41
+STU052,Krishna Joshi,Civil,2,63,70,55,70,44
+STU053,Arjun Verma,Electronics,1,70,58,57,96,71
+STU054,Sneha Sharma,Civil,7,64,51,96,47,93
+STU055,Nisha Sharma,Mechanical,4,95,53,43,62,86
+STU056,Nisha Joshi,Civil,5,46,59,86,87,57
+STU057,Pooja Verma,Civil,5,76,92,73,48,39
+STU058,Aditya Nair,Civil,3,52,43,92,51,41
+STU059,Meera Gupta,Information Science,1,84,61,100,39,63
+STU060,Arjun Singh,Electronics,8,99,51,79,38,70
+STU061,Rahul Rao,Civil,4,88,73,53,73,79
+STU062,Ananya Patel,Mechanical,6,92,54,95,73,35
+STU063,Aditya Verma,Mechanical,1,59,90,67,72,40
+STU064,Sneha Shetty,Civil,3,70,53,54,91,52
+STU065,Diya Verma,Computer Science,6,49,65,35,88,37
+STU066,Pooja Nair,Computer Science,3,46,50,58,62,42
+STU067,Krishna Joshi,Information Science,4,84,62,75,98,61
+STU068,Aisha Verma,Computer Science,5,63,47,80,69,40
+STU069,Riya Rao,Civil,7,59,100,44,90,64
+STU070,Riya Shetty,Computer Science,6,99,52,83,45,60
+STU071,Aisha Sharma,Information Science,1,35,55,89,40,39
+STU072,Rahul Rao,Civil,7,87,71,51,35,85
+STU073,Ananya Kumar,Computer Science,1,66,68,73,60,68
+STU074,Aditya Patel,Mechanical,1,88,39,91,51,81
+STU075,Diya Shetty,Civil,6,100,85,72,98,72
+STU076,Riya Patel,Information Science,6,85,97,86,72,64
+STU077,Aryan Rao,Computer Science,5,63,38,44,90,51
+STU078,Aryan Sharma,Mechanical,4,68,40,87,100,77
+STU079,Pooja Rao,Computer Science,7,89,50,42,38,38
+STU080,Aditya Rao,Electronics,5,66,84,95,85,53
+STU081,Arjun Patel,Mechanical,2,95,56,55,35,39
+STU082,Sai Joshi,Information Science,1,79,61,60,81,90
+STU083,Priya Sharma,Information Science,4,35,42,86,81,90
+STU084,Meera Joshi,Mechanical,7,36,60,48,93,90
+STU085,Nisha Nair,Electronics,7,57,52,72,49,98
+STU086,Arjun Joshi,Computer Science,1,78,59,51,47,59
+STU087,Krishna Joshi,Electronics,1,52,68,42,74,76
+STU088,Sai Shetty,Mechanical,2,98,93,90,93,67
+STU089,Rahul Singh,Mechanical,6,96,96,58,89,43
+STU090,Aditya Rao,Civil,4,58,40,100,38,40
+STU091,Aisha Gupta,Electronics,6,91,100,42,60,85
+STU092,Ananya Shetty,Information Science,6,53,54,46,81,35
+STU093,Meera Singh,Civil,6,45,37,67,40,84
+STU094,Aryan Shetty,Information Science,4,36,47,74,36,99
+STU095,Arjun Verma,Computer Science,1,49,58,72,69,83
+STU096,Arjun Patel,Civil,8,43,68,69,35,74
+STU097,Rohan Verma,Civil,6,94,64,69,71,39
+STU098,Nisha Joshi,Mechanical,1,76,52,74,73,48
+STU099,Nisha Singh,Computer Science,7,97,49,59,51,100
+STU100,Meera Shetty,Electronics,7,85,40,41,85,76
